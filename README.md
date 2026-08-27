@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🧑‍💻 Daksh Bajaniya — Developer Portfolio</h1>
+  <h1>🧑‍💻 Rohan Pal — Developer Portfolio</h1>
   <p>A modern, responsive, and highly-optimized developer portfolio showcasing engineering projects, UI clones, and interactive web elements.</p>
   
   <p>
@@ -61,7 +61,7 @@ Follow these steps to run the portfolio locally.
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/daksh006v/portfolio.git
+   git clone https://github.com/rohan9833/portfolio.git
    cd portfolio
    ```
 
@@ -106,11 +106,11 @@ Follow these steps to run the portfolio locally.
 
 Feel free to reach out for collaborations, project inquiries, or just to say hi!
 
-* **Email:** [daksh006v@gmail.com](mailto:daksh006v@gmail.com)
-* **LinkedIn:** [Daksh Bajaniya](https://www.linkedin.com/in/daksh-bajaniya-26b523378/)
-* **GitHub:** [@daksh006v](https://github.com/daksh006v)
+* **Email:** [rohan9833@gmail.com](mailto:rohan9833@gmail.com)
+* **LinkedIn:** [Rohan Pal](https://www.linkedin.com/in/daksh-bajaniya-26b523378/)
+* **GitHub:** [@rohan9833](https://github.com/rohan9833)
 * **YouTube:** [@DakshBajaniya006](https://www.youtube.com/@DakshBajaniya006)
-* **LeetCode:** [daksh006v](https://leetcode.com/u/daksh006v/)
+* **LeetCode:** [rohan9833](https://leetcode.com/u/rohan9833/)
 
 ---
 

@@ -68,7 +68,7 @@ export function AboutDetails() {
                                         {profile.avatar ? (
                                             <img
                                                 src={profile.avatar}
-                                                alt="Daksh Bajaniya - Full Stack Web Developer Desktop Setup"
+                                                alt="Rohan Pal - Full Stack Web Developer Desktop Setup"
                                                 loading="lazy"
                                                 className="w-full h-full object-cover rounded-md"
                                             />
@@ -82,7 +82,7 @@ export function AboutDetails() {
                                         {profile.name}
                                     </h3>
                                     <p className="text-foreground/60 mt-1 font-mono text-sm">
-                                        @daksh006v
+                                        @rohan9833
                                     </p>
 
                                     {/* Status badges */}

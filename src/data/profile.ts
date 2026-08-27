@@ -1,13 +1,13 @@
 export const profile = {
-    name: "Daksh Bajaniya",
-    displayName: "Daksh",
+    name: "Rohan Pal",
+    displayName: "Rohan",
     role: "Full Stack Developer",
     tagline: "Doing little is essential to doing everything else! \u2728 \uD83E\uDD84",
-    location: "Ahmedabad, Gujarat",
-    avatar: "https://github.com/daksh006v.png",
+    location: "Mumbai, Maharashtra",
+    avatar: "https://github.com/rohan9833.png",
 
     intro: [
-        "Hey, I\u2019m Daksh \u2014 a creative developer who blends logic with art.",
+        "Hey, I\u2019m Rohan \u2014 a creative developer who blends logic with art.",
         "I enjoy turning complex ideas into simple, usable systems.",
         "I like crafting things that feel natural, soulful, and intentional."
     ],
@@ -53,8 +53,8 @@ export const profile = {
                 description: "Enterprise-Grade Fleet Intelligence & Mission Command.",
                 tech: ["Next.js", "Node.js", "JavaScript", "CSS"],
                 links: {
-                    github: "https://github.com/daksh006v",
-                    live: "https://github.com/daksh006v"
+                    github: "https://github.com/rohan9833",
+                    live: "https://github.com/rohan9833"
                 }
             }
         },
@@ -70,8 +70,8 @@ export const profile = {
                 description: "An AI-powered study companion that transforms your course materials into interactive, personalized study plans — instantly.",
                 tech: ["React", "Vite", "Gemini AI", "Tailwind CSS", "Three.js"],
                 links: {
-                    github: "https://github.com/daksh006v",
-                    live: "https://github.com/daksh006v"
+                    github: "https://github.com/rohan9833",
+                    live: "https://github.com/rohan9833"
                 }
             }
         },
@@ -90,7 +90,7 @@ export const profile = {
             title: "Responsive Web Design",
             issuer: "freeCodeCamp",
             date: "2026",
-            credentialUrl: "https://www.freecodecamp.org/certification/daksh006v/responsive-web-design"
+            credentialUrl: "https://www.freecodecamp.org/certification/rohan9833/responsive-web-design"
         },
         {
             title: "JavaScript Algorithms & Data Structures",
@@ -130,7 +130,7 @@ export const profile = {
             description: "Fullstack platform built with Node.js, Express, TailwindCSS, EJS, and MongoDB.",
             tech: ["Node.js", "Express", "TailwindCSS", "MongoDB"],
             live: "https://draft16.vercel.app/",
-            github: "https://github.com/daksh006v/Draft16",
+            github: "https://github.com/rohan9833/Draft16",
             image: "/projects/draft16.png",
             category: "Full Stack"
         },
@@ -139,7 +139,7 @@ export const profile = {
             description: "Fullstack Pincode Explorer Built with Next.js, React, Tailwind, and MongoDB",
             tech: ["Next.js", "React", "TailwindCSS", "MongoDB"],
             live: "https://fullstack-project-ten-lovat.vercel.app/",
-            github: "https://github.com/daksh006v/PinScope",
+            github: "https://github.com/rohan9833/PinScope",
             image: "/projects/pinscope.png",
             category: "Full Stack"
         },
@@ -147,8 +147,8 @@ export const profile = {
             title: "StudyFlow",
             description: "Frontend platform to help students tracking progress and study",
             tech: ["React", "TailwindCSS"],
-            live: "https://github.com/daksh006v",
-            github: "https://github.com/daksh006v",
+            live: "https://github.com/rohan9833",
+            github: "https://github.com/rohan9833",
             image: "/projects/studyflow.png",
             category: "Frontend"
         },
@@ -157,19 +157,19 @@ export const profile = {
             description: "A curated collection of 6 pixel-perfect UI replicas including Airbnb, Forme, Pepsi and more, mapped onto a robust landing hub.",
             tech: ["HTML5", "CSS3", "JavaScript"],
             live: "https://website-frontend-clones.netlify.app/",
-            github: "https://github.com/daksh006v/sixWebSites",
+            github: "https://github.com/rohan9833/sixWebSites",
             category: "Clones",
             image: "/projects/webclones.png"
         }
     ],
 
     contact: {
-        email: "daksh006v@gmail.com",
-        github: "https://github.com/daksh006v",
+        email: "rohan9833@gmail.com",
+        github: "https://github.com/rohan9833",
         linkedin: "https://www.linkedin.com/in/daksh-bajaniya-26b523378/",
         resume: "https://drive.google.com/file/d/1kz9MQUrhz7XqCEs8UGnjf1SOZPaJHmMY/view?usp=sharing",
         youtube: "https://www.youtube.com/@DakshBajaniya006",
         leetcode: "https://leetcode.com/u/V1Cl3w57IK/",
-        twitter: "https://x.com/daksh006v"
+        twitter: "https://x.com/rohan9833"
     }
 }

@@ -39,11 +39,11 @@ const incognito = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "Daksh Bajaniya | Full Stack React & Node.js Developer Portfolio",
+  title: "Rohan Pal | Full Stack React & Node.js Developer Portfolio",
   description:
-    "Portfolio of Daksh Bajaniya, a passionate Full Stack Developer specializing in React, Next.js, Node.js. Explore my real-world projects, hackathon wins, and technical achievements.",
+    "Portfolio of Rohan Pal, a passionate Full Stack Developer specializing in React, Next.js, Node.js. Explore my real-world projects, hackathon wins, and technical achievements.",
   keywords: [
-    "Daksh Bajaniya",
+    "Rohan Pal",
     "Daksh",
     "Full Stack Developer",
     "React Developer",
@@ -53,20 +53,20 @@ export const metadata: Metadata = {
     "Frontend Developer",
     "Node.js Developer",
   ],
-  authors: [{ name: "Daksh Bajaniya", url: "https://github.com/Daksh006v" }],
+  authors: [{ name: "Rohan Pal", url: "https://github.com/rohan9833" }],
   openGraph: {
-    title: "Daksh Bajaniya | Full Stack React & Node.js Developer Portfolio",
+    title: "Rohan Pal | Full Stack React & Node.js Developer Portfolio",
     description:
-      "Explore the portfolio of Daksh Bajaniya, showcasing real-world React projects, hackathon wins, and web development achievements.",
+      "Explore the portfolio of Rohan Pal, showcasing real-world React projects, hackathon wins, and web development achievements.",
     type: "website",
     locale: "en_US",
-    siteName: "Daksh Bajaniya Portfolio",
+    siteName: "Rohan Pal Portfolio",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Daksh Bajaniya | Full Stack Developer",
+    title: "Rohan Pal | Full Stack Developer",
     description:
-      "Portfolio of Daksh Bajaniya, showcasing full-stack applications, problem-solving skills, and web development achievements.",
+      "Portfolio of Rohan Pal, showcasing full-stack applications, problem-solving skills, and web development achievements.",
   },
   robots: {
     index: true,

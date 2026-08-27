@@ -102,10 +102,10 @@ export function GithubActivity() {
                         className="rounded-2xl border border-border bg-card/20 p-6 backdrop-blur-sm flex items-center justify-center overflow-x-auto"
                     >
                         <div className="min-w-[700px] w-full flex justify-center opacity-80 hover:opacity-100 transition-opacity">
-                            {/* We use rshah's ghchart. Replace 'daksh006v' with username. Using 3b82f6 for a nice blue theme to match screenshot */}
+                            {/* We use rshah's ghchart. Replace 'rohan9833' with username. Using 3b82f6 for a nice blue theme to match screenshot */}
                             <img
                                 src={`https://ghchart.rshah.org/3b82f6/${profile.contact.github.split("/").pop()}`}
-                                alt="Daksh Bajaniya GitHub Contributions and Coding Activity Graph"
+                                alt="Rohan Pal GitHub Contributions and Coding Activity Graph"
                                 className="w-full h-auto opacity-70 contrast-150 grayscale invert max-md:hidden"
                                 loading="lazy"
                             />

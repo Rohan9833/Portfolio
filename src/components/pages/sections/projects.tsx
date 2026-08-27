@@ -89,7 +89,7 @@ export function Projects() {
                                                     <img 
                                                         // @ts-ignore
                                                         src={project.image} 
-                                                        alt={`${project.title} - React Node.js Project by Daksh Bajaniya`}
+                                                        alt={`${project.title} - React Node.js Project by Rohan Pal`}
                                                         loading="lazy"
                                                         className="w-full h-full object-cover transition-transform duration-700 group-hover/img-container:scale-105"
                                                     />
