@@ -44,7 +44,7 @@ export const metadata: Metadata = {
     "Portfolio of Rohan Pal, a passionate Full Stack Developer specializing in React, Next.js, Node.js. Explore my real-world projects, hackathon wins, and technical achievements.",
   keywords: [
     "Rohan Pal",
-    "Daksh",
+    "Rohan",
     "Full Stack Developer",
     "React Developer",
     "Next.js",

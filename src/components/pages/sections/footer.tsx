@@ -34,7 +34,7 @@ export function Footer() {
             <div className="text-foreground/70 flex flex-col items-center justify-between gap-3 text-sm md:flex-row">
                 <div className="inline-flex items-center gap-2">
                     <Logo className="text-[36px] leading-none" />
-                    <span>© 2026 Daksh. All rights reserved.</span>
+                    <span>© 2026 Rohan. All rights reserved.</span>
                 </div>
 
                 <motion.div

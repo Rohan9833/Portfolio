@@ -41,7 +41,7 @@ export function Logo({
             transition={{ duration, ease: "easeOut" }}
             onAnimationComplete={onAnimationEnd}
         >
-            Daksh
+            Rohan
         </motion.span>
     );
 

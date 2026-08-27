@@ -29,7 +29,7 @@ export const profile = {
         },
         {
             category: "Backend",
-            items: ["Node.js", "Express", "REST APIs", "MongoDB", "Linux"]
+            items: ["Node.js", "Express", "REST APIs", "MongoDB"]
         },
         {
             category: "Tools & Platforms",
@@ -37,7 +37,7 @@ export const profile = {
         },
         {
             category: "Currently Learning",
-            items: ["C++", "Three.js", "TypeScript Advanced"]
+            items: ["Langchain", "LangGraph", "TypeScript Advanced"]
         }
     ],
 
@@ -166,7 +166,7 @@ export const profile = {
     contact: {
         email: "rohan9833@gmail.com",
         github: "https://github.com/rohan9833",
-        linkedin: "https://www.linkedin.com/in/daksh-bajaniya-26b523378/",
+        linkedin: "https://www.linkedin.com/in/rohanpal9833/",
         resume: "https://drive.google.com/file/d/1kz9MQUrhz7XqCEs8UGnjf1SOZPaJHmMY/view?usp=sharing",
         youtube: "https://www.youtube.com/@DakshBajaniya006",
         leetcode: "https://leetcode.com/u/V1Cl3w57IK/",
