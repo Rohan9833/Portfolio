@@ -12,7 +12,7 @@ export function Contact() {
     const [message, setMessage] = useState("");
     const [step, setStep] = useState<number>(0); // 0: email, 1: name, 2: message
     const [status, setStatus] = useState<"idle" | "sending" | "sent" | "error">("idle");
-    const [errorMessage, setErrorMessage] = useState<string>("");
+    const [errorMessage, setErrorMessage] = useState<string>("");  
 
     const canSend = email.trim().length > 3 && message.trim().length > 4;
 
