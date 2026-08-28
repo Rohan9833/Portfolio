@@ -23,8 +23,8 @@ export function Contact() {
             setStatus("sending");
             // NOTE: You will need to replace the placeholders with your actual Service ID and Template ID.
             await emailjs.send(
-                "service_9k90qti", // Replace with your Service ID
-                "template_df5u4gk", // Replace with your Template ID
+                "service_5tmf6e2", // Replace with your Service ID
+                "template_nfarn16", // Replace with your Template ID
                 {
                     from_name: name || "Anonymous",
                     from_email: email,
