@@ -107,11 +107,8 @@ Follow these steps to run the portfolio locally.
 Feel free to reach out for collaborations, project inquiries, or just to say hi!
 
 * **Email:** [rohan9833@gmail.com](mailto:rohan9833@gmail.com)
-* **LinkedIn:** [Rohan Pal](https://www.linkedin.com/in/daksh-bajaniya-26b523378/)
+* **LinkedIn:** [Rohan Pal](https://www.linkedin.com/in/rohanpal9833/)
 * **GitHub:** [@rohan9833](https://github.com/rohan9833)
-* **YouTube:** [@Rohanpal9833](https://www.youtube.com/@DakshBajaniya006)
-* **LeetCode:** [rohan9833](https://leetcode.com/u/rohan9833/)
-
 ---
 
 <div align="center">
