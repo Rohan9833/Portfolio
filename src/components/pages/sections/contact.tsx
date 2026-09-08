@@ -5,7 +5,7 @@ import emailjs from "@emailjs/browser";
 import { profile } from "@/data/profile";
 import { Send, X } from "lucide-react";
 import SectionHeading from "@/components/section-heading";
-
+  
 export function Contact() {
     const [email, setEmail] = useState("");
     const [name, setName] = useState("");
