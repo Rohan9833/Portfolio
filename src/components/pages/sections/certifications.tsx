@@ -11,7 +11,7 @@ export function Certifications() {
     return (
         <SectionHeading id="certifications" text="Certifications">
             <div className="relative px-4 py-20 md:px-8 lg:px-20 overflow-hidden">
-                {/* Header Section */}
+                {/* Header Section */}    
                 <div className="relative z-10 flex flex-col mb-16 max-w-4xl">
                     <motion.div
                         initial={{ opacity: 0, x: -20 }}
