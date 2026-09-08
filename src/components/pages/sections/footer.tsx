@@ -70,7 +70,7 @@ export function Footer() {
                         whileHover={{ y: -2 }}
                         whileTap={{ scale: 0.95 }}
                         className="hover:bg-foreground/5 rounded-md border px-2 py-1 transition-all text-sm"
-                    >
+                    >   
                         Back to top
                     </motion.a>
                 </div>
