@@ -61,7 +61,7 @@ export function Certifications() {
                             transition={{ duration: 0.5, delay: index * 0.1 }}
                             viewport={{ once: true }}
                             className="group flex flex-col overflow-hidden rounded-2xl border border-border bg-card/20 backdrop-blur-sm transition-all duration-300 hover:border-foreground/30 hover:bg-card/40 cursor-pointer"
-                        >
+                        >   
                             {/* Abstract Certificate Mockup Graphic */}
                             <div className="relative h-60 w-full overflow-hidden bg-[#fafafa]/5 border-b border-border p-6 flex flex-col items-center justify-center text-center">
                                 {/* Decorative elements */}
